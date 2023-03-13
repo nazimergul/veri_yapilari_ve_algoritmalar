@@ -1,8 +1,8 @@
 # Project 1
 ```python
-#Author : NAZIM ERGUL
-#Date & Time : 14.03.2023 01:20
-#Description : Veri Yapıları ve Algoritmalar - Selection Sort Projesi
+# Author : NAZIM ERGUL
+# Date & Time : 14.03.2023 01:20
+# Description : Veri Yapıları ve Algoritmalar - Selection Sort Projesi
 ```
 ## Insertion Sort
 
