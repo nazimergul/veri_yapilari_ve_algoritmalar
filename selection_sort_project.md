@@ -44,13 +44,13 @@ for i in range(1,len(arr)):
 ##### Question 1 : [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 - Step 1 = [2, 3, 5, 8, 7, 9, 4, 15, 6]
->> Index 0 için 2 ile 7 yer değiştirir. 
+> Index 0 için 2 ile 7 yer değiştirir. 
 - Step 2 = [2, 3, 5, 8, 7, 9, 4, 15, 6]
->> Index 1 de yer alan 3 sayısı 2 den sonraki en küçük olduğu için bir değişiklik olmaz. 
+> Index 1 de yer alan 3 sayısı 2 den sonraki en küçük olduğu için bir değişiklik olmaz. 
 - Step 3 = [2, 3, 4, 8, 7, 9, 5, 15, 6]
->> Index 2 için 5 ile tüm sayılar karşılaştırılır ve 4 ile 5 yer değişir.
+> Index 2 için 5 ile tüm sayılar karşılaştırılır ve 4 ile 5 yer değişir.
 - Step 4 = [2, 3, 4, 5, 7, 9, 8, 15, 6]
->> Index 3 için 8 ile tüm sayılar karşılaştırlır ve 5 ile 8 yer değişir.
+> Index 3 için 8 ile tüm sayılar karşılaştırlır ve 5 ile 8 yer değişir.
 
 ### Method
 
