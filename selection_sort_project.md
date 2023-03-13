@@ -1,8 +1,9 @@
 # Project 1
-> Author : NAZIM ERGUL
-> Date & Time : 14.03.2023 01:20
-> Description : Veri Yapıları ve Algoritmalar - Selection Sort Projesi
-
+```python
+#Author : NAZIM ERGUL
+#Date & Time : 14.03.2023 01:20
+#Description : Veri Yapıları ve Algoritmalar - Selection Sort Projesi
+```
 ## Insertion Sort
 
 - Array =  [22, 27, 16, 2, 18, 6]
