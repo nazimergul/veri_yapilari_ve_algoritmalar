@@ -65,5 +65,4 @@ for i in range(len(arr)):
         if arr[j] < arr[enKucukId]:
             enKucukId = j      
     arr[i],arr[enKucukId] = arr[enKucukId], arr[i]
-    
 ```
