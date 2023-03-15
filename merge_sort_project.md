@@ -18,7 +18,7 @@ Yukarıda yer alan görselde soruda verilen dizinin merge sort aşamaları görs
 #### Question 1 : Big-O gösterimini yazınız.
 #
 
-> O(nlogn) Şeklinde gösterilir.
+* O(nlogn) Şeklinde gösterilir.
 
 ### Method
 #
