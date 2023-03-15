@@ -5,6 +5,7 @@
 # Description : Veri Yapıları ve Algoritmalar - Selection Sort Projesi
 ```
 ## Insertion Sort
+#
 
 - Array =  [22, 27, 16, 2, 18, 6]
 
@@ -25,9 +26,11 @@
 -Average case kapsamına girer, çünkü 18 sayısı sıralanmış arrayin tam ortasındadır.
 
 ### Method
+#
 ![](https://www.halildurmus.com/wp-content/uploads/2021/01/Insertion-Sort-Algorithms.gif)
 
 ### Example python code
+#
 ```
 for i in range(1,len(arr)):
     value = arr[i]
@@ -39,6 +42,7 @@ for i in range(1,len(arr)):
 ```
 
 ## Selection Sort
+#
 - Array =  [7, 3, 5, 8, 2, 9, 4, 15, 6] 
 
 ##### Question 1 : [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
@@ -53,10 +57,12 @@ for i in range(1,len(arr)):
 > Index 3 için 8 ile tüm sayılar karşılaştırlır ve 5 ile 8 yer değişir.
 
 ### Method
+#
 
 ![](https://www.halildurmus.com/wp-content/uploads/2021/01/589-Selection-Sorting-Algorithms.gif)
 
 ### Example python code
+#
 
 ```
 for i in range(len(arr)):
