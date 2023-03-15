@@ -5,7 +5,6 @@
 # Description : Veri Yapıları ve Algoritmalar - Merge Sort Projesi
 ```
 ## Merge Sort
-#
 
 - Array =  [16, 21, 11, 8, 12, 22]
 
