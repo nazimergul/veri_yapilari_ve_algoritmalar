@@ -14,8 +14,12 @@
 
 ![](Merge_Sort_Steps.png)
 
-#
 Yukarıda yer alan görselde soruda verilen dizinin merge sort aşamaları görsel bir şekilde açıklanmıştır.
+
+#### Question 1 : Big-O gösterimini yazınız.
+#
+
+> O(nlogn) Şeklinde gösterilir.
 
 ### Method
 #
