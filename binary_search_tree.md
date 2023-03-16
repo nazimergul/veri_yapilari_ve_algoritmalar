@@ -10,17 +10,16 @@
 #### Question = Yukarıda verilen dizinin Binary-Search-Tree aşamalarını yazınız.
 #### Answer = Root 7' dir solunda 5 ve sağında 8 vardır. Ağaç yapısı aşağıdaki gibidir.
 ```
-          7
-       /    \ 
-      5      8
-     / \      \
-    1   6      9
-   / \
-  4   3
-      /   
-     0
-      \
-       2
+            7
+         /    \ 
+        5      8
+       / \      \
+      1   6      9
+     / \
+    0   3
+       / \ 
+      2   4
+        
+         
 ```
 #### Açıklama : Verilen dizideki sıralama diziye eklenen elemanların ekleme sırası olarak kabul edilmiştir bu sebep ile 7 den başlanmış ve sırasıyla ağaç yapısı kurulmuştur. 
-#### Ağaç yapına bakıldığında sonradan eklenen sayılar dengesiz dağıldığı için worst case sayılabilir. 
